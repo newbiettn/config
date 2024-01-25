@@ -10,7 +10,6 @@ return {
             resize_window = false,
           },
         },
-        lazy = false,
       })
     end,
     keys = {
